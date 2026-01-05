@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tietosuojakäytäntö | Yukon Gold Casino – Pelaajien yksityisyys ja tietoturva</title>
+  <meta name="description" content="Yukon Gold Casinon tietosuojakäytäntö kertoo, miten keräämme, käytämme ja suojaamme henkilötietoja. Pelaajien yksityisyys, turvallisuus ja läpinäkyvyys ovat meille ensisijaisen tärkeitä." />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="../style.css?=1.6">
+     <link rel="canonical" href="/privacy-policy/">
+</head>
+<body>
+    <input type="checkbox" id="drawer-check">
+
+    <div class="main-layout">
+<header class="mobile-top">
+    <div class="logo-brand">
+        <a href="/">
+        <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img mobile-logo">
+        </a>
+    </div>
+
+    <div class="top-controls">
+        <a href="/go/">
+        <button class="ui-btn-filled header-action">Kirjaudu</button>
+        </a>
+        <label for="drawer-check" class="burger-icon">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+    </div>
+</header>
+
+<aside class="side-nav">
+    <div class="nav-top">
+        <div class="logo-brand">
+            <a href="/">
+            <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img desktop-logo">
+            </a>
+        </div>
+    </div>
+
+    <div class="nav-bottom" style="background: transparent; border:none; padding-bottom: 0;">
+        <a href="/go/">
+        <button class="ui-btn ui-btn-filled">Kirjaudu</button>
+        </a>
+    </div>
+
+    <nav class="menu-links">
+        <a href="/" class="link-item current">
+            <i class="fa-solid fa-house"></i>
+            <span>Aula</span>
+        </a>
+        <a href="/app/" class="link-item">
+            <i class="fa-solid fa-fire"></i>
+            <span>Sovellus</span>
+            <span class="badge-hot">KUUMA</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-gamepad"></i>
+            <span>Kolikkopelit</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-dice"></i>
+            <span>Livekasino</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-futbol"></i>
+            <span>Vedonlyönti</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-trophy"></i>
+            <span>Turnaukset</span>
+        </a>
+        <a href="/login/" class="link-item">
+            <i class="fa-solid fa-gem"></i>
+            <span>Login</span>
+        </a>
+        
+        <div style="margin-top: 2rem; border-top: 1px solid var(--line-color); padding-top: 1rem;">
+             <a href="/" class="link-item">
+                <i class="fa-solid fa-headset"></i>
+                <span>Asiakastuki</span>
+            </a>
+        </div>
+    </nav>
+
+    <div class="nav-bottom">
+        <button class="ui-btn ui-btn-ghost"><i class="fa-solid fa-globe"></i> Suomi</button>
+    </div>
+</aside>
+
+        <!-- MAIN CONTENT -->
+        <main class="content-area">
+
+
+ 
+
+            <!-- Content Section -->
+            <div class="text-block">
+                <div class="inner-wrap">
+                 <h1>Tietosuojakäytäntö – Yukon Gold Casino</h1>
+      <p>
+        Me Yukon Gold Casinolla pidämme pelaajiemme yksityisyyttä erittäin tärkeänä. Tämä tietosuojakäytäntö
+        selittää, miten me keräämme, käsittelemme, säilytämme ja suojaamme henkilötietoja, kun käytät
+        verkkosivustoamme, mobiilisovellustamme tai muita palveluitamme. Me haluamme toimia avoimesti ja
+        vastuullisesti, jotta tiedät aina, mitä tietoja me käsittelemme ja mihin tarkoitukseen.
+      </p>
+      <p>
+        Käyttämällä Yukon Gold Casinoa hyväksyt tämän tietosuojakäytännön periaatteet. Suosittelemme
+        lukemaan käytännön huolellisesti, jotta ymmärrät oikeutesi ja meidän velvollisuutemme tietojen
+        käsittelijänä. Me noudatamme soveltuvaa tietosuojalainsäädäntöä ja kehitämme käytäntöjämme
+        tarvittaessa varmistaaksemme, että pelaajiemme tiedot ovat turvassa.
+      </p>
+    </header>
+
+    <section id="data-controller">
+      <h2>1. Rekisterinpitäjä</h2>
+      <p>
+        Yukon Gold Casino toimii henkilötietojen rekisterinpitäjänä kaikissa niissä tilanteissa, joissa
+        käsittelemme pelaajiemme tietoja. Tämä tarkoittaa, että me päätämme, mihin tarkoituksiin ja millä
+        tavoin henkilötietoja käsitellään. Meidän vastuullamme on varmistaa, että tietojen käsittely on
+        lainmukaista, kohtuullista ja läpinäkyvää.
+      </p>
+      <p>
+        Mikäli sinulla on kysyttävää tästä tietosuojakäytännöstä tai henkilötietojesi käsittelystä, voit
+        ottaa yhteyttä asiakaspalveluumme. Me pyrimme vastaamaan kaikkiin tietosuojaan liittyviin
+        kysymyksiin selkeästi ja viivytyksettä.
+      </p>
+    </section>
+
+    <section id="data-we-collect">
+      <h2>2. Keräämämme henkilötiedot</h2>
+      <p>
+        Me keräämme vain sellaisia henkilötietoja, jotka ovat tarpeellisia palveluidemme tarjoamiseksi,
+        lakisääteisten velvoitteiden täyttämiseksi ja pelikokemuksen kehittämiseksi. Kerättävät tiedot
+        voivat vaihdella sen mukaan, miten käytät palveluitamme ja mitä toimintoja valitset.
+      </p>
+
+      <h3>2.1 Pelaajan antamat tiedot</h3>
+      <ul>
+        <li>Nimi, syntymäaika ja yhteystiedot</li>
+        <li>Käyttäjätunnus ja tilin tunnistetiedot</li>
+        <li>Maksutapoihin liittyvät tiedot</li>
+        <li>Asiakaspalvelun kanssa käyty viestintä</li>
+      </ul>
+
+      <h3>2.2 Automaattisesti kerättävät tiedot</h3>
+      <ul>
+        <li>IP-osoite ja laitetiedot</li>
+        <li>Selaintyyppi ja käyttöjärjestelmä</li>
+        <li>Sivuston ja sovelluksen käyttöä koskevat tiedot</li>
+        <li>Evästeiden ja vastaavien teknologioiden kautta kerätty tieto</li>
+      </ul>
+
+      <p>
+        Me emme kerää tarpeettomia tai asiaankuulumattomia tietoja. Kaikki kerättävä tieto liittyy
+        suoraan palvelun tarjoamiseen, turvallisuuden varmistamiseen tai lakisääteisiin velvoitteisiin.
+      </p>
+    </section>
+
+    <section id="purpose-of-processing">
+      <h2>3. Henkilötietojen käyttötarkoitukset</h2>
+      <p>
+        Me käsittelemme henkilötietoja selkeästi määriteltyihin tarkoituksiin. Tietojen käsittely perustuu
+        sopimussuhteeseen, lakisääteisiin velvoitteisiin tai pelaajan antamaan suostumukseen.
+      </p>
+
+      <ul>
+        <li>Pelaajatilin luominen ja hallinta</li>
+        <li>Talletusten ja kotiutusten käsittely</li>
+        <li>Henkilöllisyyden ja iän varmentaminen</li>
+        <li>Petosten ja väärinkäytösten estäminen</li>
+        <li>Asiakaspalvelun tarjoaminen</li>
+        <li>Palvelun ja käyttökokemuksen kehittäminen</li>
+        <li>Markkinointi ja kampanjaviestintä (suostumuksen perusteella)</li>
+      </ul>
+
+      <p>
+        Me emme käytä henkilötietoja muihin tarkoituksiin kuin niihin, joista tässä tietosuojakäytännössä
+        kerrotaan, ellei laki sitä edellytä tai ellei pelaaja ole antanut nimenomaista suostumustaan.
+      </p>
+    </section>
+
+    <section id="legal-basis">
+      <h2>4. Käsittelyn oikeusperusteet</h2>
+      <p>
+        Henkilötietojen käsittely perustuu yhteen tai useampaan seuraavista oikeusperusteista:
+      </p>
+      <ul>
+        <li><strong>Sopimus:</strong> tietojen käsittely on tarpeen palvelun tarjoamiseksi.</li>
+        <li><strong>Lakisääteinen velvoite:</strong> esimerkiksi rahanpesun estämiseen liittyvät vaatimukset.</li>
+        <li><strong>Oikeutettu etu:</strong> palvelun turvallisuuden ja toimivuuden varmistaminen.</li>
+        <li><strong>Suostumus:</strong> markkinointiviestintä ja tietyt evästeet.</li>
+      </ul>
+    </section>
+
+    <section id="cookies">
+      <h2>5. Evästeet ja seurantateknologiat</h2>
+      <p>
+        Me käytämme evästeitä ja vastaavia teknologioita parantaaksemme sivuston ja sovelluksen
+        toimivuutta. Evästeiden avulla muistamme esimerkiksi kirjautumisen, kielivalinnat ja
+        käyttötottumukset.
+      </p>
+      <p>
+        Evästeet jaetaan yleensä seuraaviin kategorioihin:
+      </p>
+      <ul>
+        <li>Välttämättömät evästeet – palvelun perustoiminnot</li>
+        <li>Toiminnalliset evästeet – käyttökokemuksen parantaminen</li>
+        <li>Analytiikkaevästeet – palvelun kehittäminen</li>
+        <li>Markkinointievästeet – kohdennettu viestintä</li>
+      </ul>
+      <p>
+        Voit hallita evästeiden käyttöä selaimesi asetuksista. Huomioithan, että evästeiden estäminen
+        saattaa vaikuttaa palvelun toimivuuteen.
+      </p>
+    </section>
+
+    <section id="data-sharing">
+      <h2>6. Tietojen luovuttaminen ja kolmannet osapuolet</h2>
+      <p>
+        Me emme myy pelaajiemme henkilötietoja. Tietoja voidaan kuitenkin luovuttaa luotettaville
+        kolmansille osapuolille, kun se on tarpeen palvelun tarjoamiseksi tai lakisääteisten velvoitteiden
+        täyttämiseksi.
+      </p>
+      <ul>
+        <li>Maksupalveluntarjoajat</li>
+        <li>Pelitoimittajat teknistä toteutusta varten</li>
+        <li>Viranomaiset lakisääteisten vaatimusten mukaisesti</li>
+        <li>Tekniset palvelukumppanit (esim. hosting)</li>
+      </ul>
+      <p>
+        Me varmistamme sopimuksin, että kaikki yhteistyökumppanit käsittelevät tietoja turvallisesti ja
+        tämän tietosuojakäytännön mukaisesti.
+      </p>
+    </section>
+
+    <section id="data-retention">
+      <h2>7. Tietojen säilytysaika</h2>
+      <p>
+        Me säilytämme henkilötietoja vain niin kauan kuin se on tarpeen tässä tietosuojakäytännössä
+        kuvattujen tarkoitusten toteuttamiseksi tai lain edellyttämällä tavalla. Säilytysajat voivat
+        vaihdella tietotyypin mukaan.
+      </p>
+      <p>
+        Kun tietojen säilyttäminen ei ole enää tarpeellista, me poistamme tai anonymisoimme tiedot
+        turvallisesti.
+      </p>
+    </section>
+
+    <section id="security">
+      <h2>8. Tietoturva</h2>
+      <p>
+        Me käytämme asianmukaisia teknisiä ja organisatorisia toimenpiteitä suojataksemme henkilötiedot
+        luvattomalta käytöltä, häviämiseltä tai väärinkäytöltä. Tietoturvaan kuuluvat muun muassa
+        suojatut yhteydet, pääsynhallinta ja säännölliset järjestelmäpäivitykset.
+      </p>
+      <p>
+        Vaikka pyrimme suojaamaan tiedot parhaalla mahdollisella tavalla, mikään järjestelmä ei ole
+        täysin riskitön. Siksi kehitämme jatkuvasti turvakäytäntöjämme ja reagoimme mahdollisiin
+        uhkiin viipymättä.
+      </p>
+    </section>
+
+    <section id="user-rights">
+      <h2>9. Pelaajan oikeudet</h2>
+      <p>
+        Sinulla on useita oikeuksia henkilötietojesi suhteen. Me kunnioitamme näitä oikeuksia ja
+        mahdollistamme niiden käyttämisen sovellettavan lainsäädännön mukaisesti.
+      </p>
+      <ul>
+        <li>Oikeus tarkastaa omat tietosi</li>
+        <li>Oikeus tietojen oikaisemiseen</li>
+        <li>Oikeus tietojen poistamiseen tietyissä tilanteissa</li>
+        <li>Oikeus käsittelyn rajoittamiseen</li>
+        <li>Oikeus vastustaa käsittelyä</li>
+        <li>Oikeus siirtää tiedot järjestelmästä toiseen</li>
+      </ul>
+      <p>
+        Oikeuksien käyttämiseksi voit olla yhteydessä asiakaspalveluumme. Saatamme pyytää lisätietoja
+        henkilöllisyyden varmentamiseksi ennen pyynnön käsittelyä.
+      </p>
+    </section>
+
+    <section id="marketing">
+      <h2>10. Markkinointiviestintä</h2>
+      <p>
+        Me voimme lähettää markkinointiviestejä vain, jos olet antanut siihen suostumuksesi tai jos laki
+        sen sallii. Markkinointiviestintä voi sisältää tietoa bonuksista, kampanjoista ja palvelun
+        päivityksistä.
+      </p>
+      <p>
+        Voit peruuttaa markkinointiviestit milloin tahansa tiliasetuksista tai viesteissä olevan
+        peruutuslinkin kautta. Peruutus ei vaikuta palvelun käyttöön.
+      </p>
+    </section>
+
+    <section id="changes">
+      <h2>11. Muutokset tietosuojakäytäntöön</h2>
+      <p>
+        Me saatamme päivittää tätä tietosuojakäytäntöä ajoittain esimerkiksi lainsäädännön muutosten tai
+        palvelun kehittämisen vuoksi. Päivitetty versio julkaistaan aina verkkosivustollamme, ja
+        merkittävistä muutoksista ilmoitetaan tarvittaessa.
+      </p>
+      <p>
+        Suosittelemme tarkistamaan tietosuojakäytännön säännöllisesti, jotta pysyt ajan tasalla siitä,
+        miten käsittelemme henkilötietoja.
+      </p>
+    </section>
+
+    <section id="contact">
+      <h2>12. Yhteydenotto</h2>
+      <p>
+        Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, henkilötietojesi käsittelystä tai
+        oikeuksistasi, voit ottaa meihin yhteyttä asiakaspalvelun kautta. Me arvostamme luottamustasi ja
+        teemme parhaamme vastataksemme kaikkiin tietosuojaan liittyviin kysymyksiin.
+      </p>
+      <p>
+        Yukon Gold Casino on sitoutunut suojaamaan pelaajiensa yksityisyyttä ja tarjoamaan turvallisen,
+        läpinäkyvän ja luotettavan peliympäristön. Tämä tietosuojakäytäntö on osa sitä lupausta.
+      </p>
+               
+               
+  </div>
+            <!-- Footer -->
+<div style="background-color: var(--color-surface); border-top: 1px solid var(--line-color); padding: 0.8rem; text-align: center; font-size: 0.85rem; color: var(--txt-muted);">
+    <i class="fa-regular fa-clock" style="margin-right: 5px; color: var(--theme-yellow);"></i> 
+    Päivitetty: <strong>26.12.2025</strong>
+</div>
+
+<footer class="page-footer">
+    <div class="footer-columns">
+        <div class="footer-group">
+            <h4>Kasino</h4>
+            <ul>
+                <li><a href="/">Pelit</a></li>
+                <li><a href="/">Livekasino</a></li>
+                <li><a href="/">Uutuudet</a></li>
+                <li><a href="/">Turnaukset</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Urheilu</h4>
+            <ul>
+                <li><a href="/">Live-vedonlyönti</a></li>
+                <li><a href="/">Jalkapallo</a></li>
+                <li><a href="/">Koripallo</a></li>
+                <li><a href="/">Virtuaaliurheilu</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Asiakastuki</h4>
+            <ul>
+                <li><a href="/faq/">UKK</a></li>
+                <li><a href="/">Live-chat</a></li>
+                <li><a href="/contact/">Ota yhteyttä</a></li>
+                <li><a href="/responsible-gambling/">Vastuullinen pelaaminen</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Tietoa meistä</h4>
+            <ul>
+                <li><a href="/about-us/">Yritys</a></li>
+                <li><a href="/terms-and-conditions/">Säännöt ja ehdot</a></li>
+                <li><a href="/privacy-policy/">Tietosuojakäytäntö</a></li>
+                <li><a href="mailto:"support@yukongoldcasino.fi">support@yukongoldcasino.fi</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="legal-copy">
+        <div class="footer-partners">
+            <a href="https://www.gamingcontrolcuracao.org/">
+            <img src="/cga-logo.png" alt="CGA Logo" class="trust-logo"></a>
+            <img src="/pragmaticplay_logo.webp" alt="Pragmatic Play" class="trust-logo">
+            <a href="https://www.gamcare.org.uk/">
+            <img src="/gamcare.png" alt="gamecare" class="trust-logo">
+            </a>
+        </div>
+
+        <p>&copy; 2026 Yukon Gold Casino. Kaikki oikeudet pidätetään.</p>
+        
+        <div style="margin-top: 1rem; font-size: 1.5rem; color: #334155;">
+            <i class="fa-brands fa-cc-visa" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-cc-mastercard" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-bitcoin" style="margin: 0 5px;"></i>
+        </div>
+    </div>
+</footer>
+        </main>
+    </div>
+
+</body>
+</html>

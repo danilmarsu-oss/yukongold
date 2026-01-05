@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yukon Gold Casino App – Lataa virallinen sovellus Android & iOS | Yukon Gold Casino</title>
+<meta name="description" content="Pelaa missä ja milloin tahansa Yukon Gold Casino Appilla. Turvallinen mobiilikasino Android- ja iOS-laitteille, nopeat maksut, laaja pelivalikoima ja mobiilibonukset. Lataa Yukon Gold App ja aloita pelaaminen jo tänään.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="../style.css?=1.6">
+     <link rel="canonical" href="/app/">
+</head>
+<body>
+    <input type="checkbox" id="drawer-check">
+
+    <div class="main-layout">
+<header class="mobile-top">
+    <div class="logo-brand">
+        <a href="/">
+        <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img mobile-logo">
+        </a>
+    </div>
+
+    <div class="top-controls">
+        <a href="/go/">
+        <button class="ui-btn-filled header-action">Kirjaudu</button>
+        </a>
+        <label for="drawer-check" class="burger-icon">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+    </div>
+</header>
+
+<aside class="side-nav">
+    <div class="nav-top">
+        <div class="logo-brand">
+            <a href="/">
+            <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img desktop-logo">
+            </a>
+        </div>
+    </div>
+
+    <div class="nav-bottom" style="background: transparent; border:none; padding-bottom: 0;">
+        <a href="/go/">
+        <button class="ui-btn ui-btn-filled">Kirjaudu</button>
+        </a>
+    </div>
+
+    <nav class="menu-links">
+        <a href="/" class="link-item current">
+            <i class="fa-solid fa-house"></i>
+            <span>Aula</span>
+        </a>
+        <a href="/app/" class="link-item">
+            <i class="fa-solid fa-fire"></i>
+            <span>Sovellus</span>
+            <span class="badge-hot">KUUMA</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-gamepad"></i>
+            <span>Kolikkopelit</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-dice"></i>
+            <span>Livekasino</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-futbol"></i>
+            <span>Vedonlyönti</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-trophy"></i>
+            <span>Turnaukset</span>
+        </a>
+        <a href="/login/" class="link-item">
+            <i class="fa-solid fa-gem"></i>
+            <span>Login</span>
+        </a>
+        
+        <div style="margin-top: 2rem; border-top: 1px solid var(--line-color); padding-top: 1rem;">
+             <a href="/" class="link-item">
+                <i class="fa-solid fa-headset"></i>
+                <span>Asiakastuki</span>
+            </a>
+        </div>
+    </nav>
+
+    <div class="nav-bottom">
+        <button class="ui-btn ui-btn-ghost"><i class="fa-solid fa-globe"></i> Suomi</button>
+    </div>
+</aside>
+
+        <!-- MAIN CONTENT -->
+        <main class="content-area">
+            
+            <div class="inner-wrap">
+                <!-- Hero Section -->
+                <section class="intro-zone">
+                    <div class="big-banner">
+                        <span class="pill-tag">Tervetuliaisbonus</span>
+                        <h1 class="big-title">
+                            Yukon Gold Casino App  </h1>
+                            <p class="gold-text" style="font-size: 3.5em; font-weight: 900; line-height: 1.1; margin: 10px 0;">€500 + 200 FS</p>
+            
+<p>
+    Meidän <strong>Yukon Gold Casino App</strong> tekee pelaamisesta sujuvaa, turvallista ja aidosti mobiilia. Kun käytössäsi on
+    <strong>yukon gold app</strong>, pääset suosikkipeleihisi muutamassa sekunnissa – ilman turhaa säätöä ja ilman, että sinun täytyy
+    etsiä oikeaa sivua selaimessa. Me olemme rakentaneet kokemuksen, jossa <strong>Yukon Gold Casino</strong> kulkee mukanasi:
+    talletat, pelaat ja kotiutat helposti juuri silloin, kun sinulle sopii.
+  </p>
+                        <button class="ui-btn ui-btn-filled cta-large">🔥LUNASTA BONUS🔥</button>
+                    </div>
+                </section>
+
+ 
+
+            <!-- Content Section -->
+            <div class="text-block">
+                <div class="inner-wrap">
+<img src="Yukon Gold App.webp" alt="Yukon Gold Casino App">
+  <p>
+    <strong>Helppokäyttöinen</strong> käyttöliittymä, <strong>turvallinen</strong> kirjautuminen ja <strong>mobiilille optimoidut</strong>
+    pelit tekevät sovelluksesta luotettavan valinnan sekä uusille että kokeneille pelaajille. Sovellus toimii sekä Android- että iOS-laitteilla,
+    joten voit pelata puhelimella tai tabletilla missä tahansa.
+  </p>
+  <p><strong>CTA:</strong> Lataa Yukon Gold App ja aloita pelaaminen</p>
+</section>
+
+<section id="mika-on-app">
+  <h2>Mikä on Yukon Gold Casino App?</h2>
+  <p>
+    <strong>Yukon Gold Casino App</strong> on meidän mobiilikasino-sovelluksemme, joka on suunniteltu pelaajille, jotka haluavat
+    nopean pääsyn peleihin, tarjouksiin ja maksuihin suoraan omalta laitteeltaan. Olitpa liikkeellä, kotisohvalla tai kahvitauolla,
+    <strong>yukon gold app</strong> pitää pelielämyksen kätesi ulottuvilla – ilman kompromisseja turvallisuudessa tai käyttömukavuudessa.
+  </p>
+  <p>
+    Verrattuna selaimessa pelaamiseen sovellus on yleensä sulavampi: se avautuu nopeammin, muistaa asetuksiasi ja tekee navigoinnista
+    selkeämpää. Lisäksi sovelluksessa voit saada ilmoituksia uusista kampanjoista ja ajankohtaisista eduista, jolloin et missaa tärkeitä
+    tarjouksia. Me suosittelemme pelaamista sovelluksella, koska se on suunniteltu juuri mobiilikäyttöön: painikkeet, pelinäkymät ja
+    maksutoiminnot toimivat luontevasti myös pienemmällä näytöllä.
+  </p>
+  <p>
+    Meidän brändimme tausta on yksinkertainen: tarjoamme pelaajille luotettavan, selkeän ja viihdyttävän tavan nauttia kasinopeleistä.
+    <strong>Yukon Gold Casino</strong> -kokemus on sama laadukas kokonaisuus, mutta sovelluksessa vielä nopeampana.
+  </p>
+
+  <h3>Mitä saat Yukon Gold Appilla</h3>
+  <ul>
+    <li>Nopean kirjautumisen ja sujuvan käytön mobiilissa</li>
+    <li>Pelit optimoituna kosketusnäytölle</li>
+    <li>Tarjoukset ja kampanjat helposti yhdessä paikassa</li>
+    <li>Turvalliset maksutavat talletuksiin ja kotiutuksiin</li>
+    <li>Mahdollisuuden personoida omaa pelikokemusta</li>
+  </ul>
+</section>
+
+<section id="miksi-valita">
+  <h2>Miksi valita meidän Yukon Gold App mobiilipelaamiseen?</h2>
+  <img src="Yukon Gold App Benefits.webp" alt="Yukon Gold App">
+  <p>
+    Me rakennamme sovelluksen ennen kaikkea käyttäjäkokemus edellä. <strong>Yukon gold app</strong> on tehty niin, että pääset
+    pelaamaan nopeasti ja löydät haluamasi pelit ilman turhia klikkauksia. Kun käytät <strong>yukon gold casino app</strong> -sovellusta,
+    saat mobiilikasinon, joka tuntuu yhtä aikaa kevyeltä ja varmalta: pelit latautuvat jouhevasti, valikot ovat selkeät ja oma tili on
+    hallittavissa yhdestä näkymästä.
+  </p>
+  <p>
+    Meidän mielestämme paras mobiilikasino on se, joka toimii arjessa: nopea avata, helppo käyttää ja riittävän personoitu, jotta palaat
+    mielelläsi takaisin. Sovellus tukee myös ilmoituksia, jolloin pysyt ajan tasalla uusista bonuksista ja rajoitetuista kampanjoista – ilman,
+    että sinun tarvitsee jatkuvasti tarkistaa sivustoa. Kun kokonaisuus on suunniteltu mobiilille, jokainen toiminto tuntuu luonnolliselta.
+  </p>
+
+  <ul>
+    <li>
+      <strong>Nopeus ja sujuvuus</strong> – Sovellus avautuu nopeasti ja pelit latautuvat sulavasti myös mobiiliverkossa.
+    </li>
+    <li>
+      <strong>Helppo navigointi</strong> – Selkeät kategoriat ja hakutoiminnot auttavat löytämään suosikit heti.
+    </li>
+    <li>
+      <strong>Personointi</strong> – Saat näkyviin viimeksi pelatut ja suositellut pelit, jotta jatkat siitä mihin jäit.
+    </li>
+    <li>
+      <strong>Push-ilmoitukset</strong> – Me kerromme sinulle ajankohtaisista eduista, jotta et missaa tarjouksia.
+    </li>
+    <li>
+      <strong>Tarjoukset mobiilissa</strong> – Sovelluksessa kampanjat ovat kätevästi yhdessä paikassa ja lunastus on nopeaa.
+    </li>
+  </ul>
+</section>
+
+<section id="pelivalikoima">
+  <h2>Yukon Gold Casino Appin pelivalikoima</h2>
+  <p>
+    Meidän <strong>yukon gold casino app</strong> -kokonaisuus on rakennettu niin, että saat laajan valikoiman pelejä suoraan mobiilissa.
+    Olitpa kolikkopelien ystävä, pöytäpelien taktikko tai livekasinon tunnelman hakija, löydät sovelluksesta vaihtoehtoja eri tyyleihin ja
+    panostasoihin. Lisäksi pelit ovat optimoituja kosketusnäytölle: valikot, panokset ja toiminnot toimivat tarkasti myös pienemmällä näytöllä.
+  </p>
+  <p>
+    Me teemme pelien löytämisestä helppoa kategorioiden ja hakutoimintojen avulla. Näet uutuudet, suosituimmat ja omat suosikkisi nopeasti.
+    Pelitarjoajien valikoima tuo vaihtelua – ja se näkyy sekä grafiikoissa että ominaisuuksissa. Kun <strong>yukon gold casino app pelit</strong>
+    ovat aina mukana, voit pelata juuri sen verran kuin haluat, missä tahansa.
+  </p>
+
+  <h3>Pelit sovelluksessa</h3>
+  <ul>
+    <li><strong>Kolikkopelit</strong> – klassikot, uutuudet, jättipotit ja bonusominaisuudet (esim. Megaways-tyyliset pelit).</li>
+    <li><strong>Pöytäpelit</strong> – blackjack, ruletti, baccarat ja muut strategiapelit eri variaatioina.</li>
+    <li><strong>Live casino</strong> – reaaliaikaiset pelipöydät ja jakajat, kun haet aitoa kasinotunnelmaa.</li>
+    <li><strong>Pelintarjoajat</strong> – useita tunnettuja studioita, jotta valikoima pysyy tuoreena ja monipuolisena.</li>
+    <li><strong>Mobiilioptimointi</strong> – nopeat lataukset, skaalautuvat näkymät ja helppo ohjaus kosketuksella.</li>
+  </ul>
+
+  <p><em>Esimerkkejä suosituista peleistä:</em> modernit kolikkopelit, klassinen ruletti, live blackjack ja erilaiset jättipottipelit.</p>
+</section>
+
+<section id="bonukset">
+  <h2>Bonukset ja kampanjat Yukon Gold Appissa</h2>
+  <p>
+    Meidän tavoitteemme on tehdä bonusten lunastamisesta yhtä helppoa kuin pelaamisesta. <strong>Yukon gold app bonus</strong> voi sisältää
+    tervetuliaisetuja, kampanjakohtaisia palkintoja sekä ajoittaisia yllätysetuja, jotka ovat saatavilla suoraan sovelluksessa. Kun käytät
+    sovellusta, näet ajankohtaiset tarjoukset selkeästi omassa näkymässään ja voit lunastaa edut muutamalla napautuksella.
+  </p>
+  <p>
+    Mobiilipelaajille suunnatut tarjoukset ovat usein käytännöllisiä: esimerkiksi lisäkierrätyksiä, ilmaiskierroksia tai talletusbonuksia,
+    jotka aktivoituvat nopeasti. Lisäksi tarjoamme kanta-asiakasetuja, joissa aktiivinen pelaaminen voi tuoda lisäarvoa – kuten henkilökohtaisia
+    kampanjoita tai etuja tietyistä pelityypeistä. Kierrätysvaatimuksista pidämme yleisellä tasolla kiinni reiluna: tavoitteena on, että ehdot
+    ovat selkeitä ja pelaaja ymmärtää, mitä bonuksen hyödyntäminen käytännössä tarkoittaa.
+  </p>
+
+  <h3>Bonustyypit, joita voit nähdä sovelluksessa</h3>
+  <ul>
+    <li><strong>Tervetuliaisbonus</strong> – etu uusille pelaajille sovelluksen kautta</li>
+    <li><strong>Mobiilibonus</strong> – erikoisedut, jotka on suunnattu sovelluspelaamiseen</li>
+    <li><strong>Ilmaiskierrokset</strong> – valikoituihin kolikkopeleihin määräajaksi</li>
+    <li><strong>Kasino tarjoukset</strong> – viikoittaiset kampanjat ja ajankohtaiset edut</li>
+    <li><strong>Kanta-asiakasohjelma</strong> – etuja aktiivisille pelaajille</li>
+  </ul>
+
+  <p><strong>CTA:</strong> Lunasta mobiilibonus ja aloita pelaaminen Yukon Gold Appissa</p>
+</section>
+
+<section id="maksut">
+  <h2>Yukon Gold App – talletukset ja kotiutukset mobiilissa</h2>
+  <p>
+    Me tiedämme, että mobiilikasinossa maksujen pitää olla nopeita ja selkeitä. Siksi <strong>yukon gold app maksut</strong> on suunniteltu
+    niin, että talletat ja kotiutat vaivattomasti – suoraan puhelimelta. Valikoima painottaa helppokäyttöisiä ja mobiiliystävällisiä ratkaisuja,
+    ja maksun vahvistus tapahtuu turvallisesti. Kotiutuksissa tavoitteena on sujuva prosessi ja selkeät vaiheet, jotta tiedät aina missä mennään.
+  </p>
+  <p>
+    Turvallisuus on meille olennainen osa maksuliikennettä: yhteydet ovat suojattuja ja maksutapahtumat käsitellään luotettavasti.
+    Kun pelaat sovelluksella, hallitset myös omaa tiliäsi helposti – talletusrajat, historiat ja asetukset löytyvät samasta paikasta.
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Maksutapa</th>
+        <th>Talletus</th>
+        <th>Kotiutus</th>
+        <th>Nopeus</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Pankkikortti</td>
+        <td>Kyllä</td>
+        <td>Kyllä</td>
+        <td>Nopea</td>
+      </tr>
+      <tr>
+        <td>Verkkopankki</td>
+        <td>Kyllä</td>
+        <td>Kyllä</td>
+        <td>Nopea</td>
+      </tr>
+      <tr>
+        <td>Sähkölompakko</td>
+        <td>Kyllä</td>
+        <td>Kyllä</td>
+        <td>Erittäin nopea</td>
+      </tr>
+      <tr>
+        <td>Mobiilimaksu</td>
+        <td>Kyllä</td>
+        <td>Vaihtelee</td>
+        <td>Nopea</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><em>Huom:</em> Saatavilla olevat maksutavat voivat vaihdella alueen ja tilin mukaan, mutta me pidämme valikoiman aina mobiiliystävällisenä.</p>
+</section>
+
+<section id="lataa-vaiheet">
+  <h2>Kuinka ladata Yukon Gold Casino App – vaihe vaiheelta</h2>
+  <p>
+    Me olemme tehneet asennuksesta nopean, jotta pääset pelaamaan heti. <strong>Yukon gold casino app lataa</strong> -prosessi toimii sekä
+    Android- että iOS-laitteilla, ja koko homma hoituu muutamassa vaiheessa ilman teknistä jargonia.
+  </p>
+
+  <ol>
+    <li>Avaa laitteellasi sovelluskauppa (Android tai iOS).</li>
+    <li>Etsi “Yukon Gold Casino App” ja valitse sovellus.</li>
+    <li>Paina asenna ja odota, että lataus valmistuu.</li>
+    <li>Avaa sovellus ja kirjaudu sisään tai luo uusi tili.</li>
+    <li>Tee talletus ja aloita pelaaminen suosikkipeleilläsi.</li>
+  </ol>
+
+  <p>
+    Kun sovellus on asennettu, sinulla on <strong>yukon gold app asennus</strong> valmiina – ja me olemme mukana joka vaiheessa,
+    jotta alku on helppo.
+  </p>
+</section>
+
+<section id="turvallisuus">
+  <h2>Onko Yukon Gold Casino App turvallinen?</h2>
+  <p>
+    Kyllä – turvallisuus on meille perusta. Me haluamme, että pelaat luottavaisin mielin: tiedot suojataan, maksut käsitellään turvallisesti
+    ja peliympäristö on reilu. <strong>Yukon gold app turvallisuus</strong> nojaa selkeisiin käytäntöihin, jotta tiedät, mitä odottaa
+    jokaisessa vaiheessa.
+  </p>
+
+  <ul>
+    <li><strong>Lisensointi ja valvonta</strong> – toiminta perustuu lisenssiehtojen ja sääntöjen noudattamiseen.</li>
+    <li><strong>Salaus</strong> – suojatut yhteydet auttavat pitämään tiedot turvassa.</li>
+    <li><strong>Reilu peli</strong> – pelit toimivat standardien mukaisesti ja tulokset ovat satunnaisia.</li>
+    <li><strong>Vastuunalainen pelaaminen</strong> – tarjoamme työkaluja rajoihin ja pelaamisen hallintaan.</li>
+  </ul>
+</section>
+
+<section id="kenelle-sopii">
+  <h2>Kenelle Yukon Gold App sopii parhaiten?</h2>
+  <p>
+    Meidän <strong>yukon gold app</strong> sopii erityisesti pelaajille, jotka arvostavat nopeutta, helppoutta ja sitä, että kasino kulkee
+    mukana arjessa. Olitpa vasta aloittamassa tai etsit tehokkaampaa tapaa pelata, sovellus tarjoaa sujuvan reitin peleihin ja tarjouksiin.
+  </p>
+
+  <ul>
+    <li><strong>Uudet pelaajat</strong> – selkeä rakenne ja helppo alku tekevät aloittamisesta vaivatonta.</li>
+    <li><strong>Kokeneet kasinopelaajat</strong> – laaja valikoima ja nopea käyttö tukevat aktiivista pelaamista.</li>
+    <li><strong>Mobiilikäyttäjät</strong> – käyttöliittymä ja pelit on optimoitu puhelimelle ja tabletille.</li>
+    <li><strong>Arjen nopeisiin hetkiin</strong> – pelaa lyhyesti tai pidempään, juuri silloin kun sinulle sopii.</li>
+  </ul>
+</section>
+
+            </div>
+
+
+            <!-- Footer -->
+<div style="background-color: var(--color-surface); border-top: 1px solid var(--line-color); padding: 0.8rem; text-align: center; font-size: 0.85rem; color: var(--txt-muted);">
+    <i class="fa-regular fa-clock" style="margin-right: 5px; color: var(--theme-yellow);"></i> 
+    Päivitetty: <strong>26.12.2025</strong>
+</div>
+
+<footer class="page-footer">
+    <div class="footer-columns">
+        <div class="footer-group">
+            <h4>Kasino</h4>
+            <ul>
+                <li><a href="/">Pelit</a></li>
+                <li><a href="/">Livekasino</a></li>
+                <li><a href="/">Uutuudet</a></li>
+                <li><a href="/">Turnaukset</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Urheilu</h4>
+            <ul>
+                <li><a href="/">Live-vedonlyönti</a></li>
+                <li><a href="/">Jalkapallo</a></li>
+                <li><a href="/">Koripallo</a></li>
+                <li><a href="/">Virtuaaliurheilu</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Asiakastuki</h4>
+            <ul>
+                <li><a href="/faq/">UKK</a></li>
+                <li><a href="/">Live-chat</a></li>
+                <li><a href="/contact/">Ota yhteyttä</a></li>
+                <li><a href="/responsible-gambling/">Vastuullinen pelaaminen</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Tietoa meistä</h4>
+            <ul>
+                <li><a href="/about-us/">Yritys</a></li>
+                <li><a href="/terms-and-conditions/">Säännöt ja ehdot</a></li>
+                <li><a href="/privacy-policy/">Tietosuojakäytäntö</a></li>
+                <li><a href="mailto:"support@yukongoldcasino.fi">support@yukongoldcasino.fi</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="legal-copy">
+        <div class="footer-partners">
+            <a href="https://www.gamingcontrolcuracao.org/">
+            <img src="/cga-logo.png" alt="CGA Logo" class="trust-logo"></a>
+            <img src="/pragmaticplay_logo.webp" alt="Pragmatic Play" class="trust-logo">
+            <a href="https://www.gamcare.org.uk/">
+            <img src="/gamcare.png" alt="gamecare" class="trust-logo">
+            </a>
+        </div>
+
+        <p>&copy; 2026 Yukon Gold Casino. Kaikki oikeudet pidätetään.</p>
+        
+        <div style="margin-top: 1rem; font-size: 1.5rem; color: #334155;">
+            <i class="fa-brands fa-cc-visa" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-cc-mastercard" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-bitcoin" style="margin: 0 5px;"></i>
+        </div>
+    </div>
+</footer>
+        </main>
+    </div>
+
+</body>
+</html>

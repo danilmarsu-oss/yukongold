@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yukon Gold Casino UKK – Usein kysytyt kysymykset</title>
+<meta name="description" content="Löydä vastaukset Yukon Gold Casinon usein kysyttyihin kysymyksiin. Pelaaminen, bonukset, maksutavat, kotiutukset ja turvallisuus selkeästi.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="../style.css?=1.6">
+     <link rel="canonical" href="/faq/">
+</head>
+<body>
+    <input type="checkbox" id="drawer-check">
+
+    <div class="main-layout">
+<header class="mobile-top">
+    <div class="logo-brand">
+        <a href="/">
+        <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img mobile-logo">
+        </a>
+    </div>
+
+    <div class="top-controls">
+        <a href="/go/">
+        <button class="ui-btn-filled header-action">Kirjaudu</button>
+        </a>
+        <label for="drawer-check" class="burger-icon">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+    </div>
+</header>
+
+<aside class="side-nav">
+    <div class="nav-top">
+        <div class="logo-brand">
+            <a href="/">
+            <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img desktop-logo">
+            </a>
+        </div>
+    </div>
+
+    <div class="nav-bottom" style="background: transparent; border:none; padding-bottom: 0;">
+        <a href="/go/">
+        <button class="ui-btn ui-btn-filled">Kirjaudu</button>
+        </a>
+    </div>
+
+    <nav class="menu-links">
+        <a href="/" class="link-item current">
+            <i class="fa-solid fa-house"></i>
+            <span>Aula</span>
+        </a>
+        <a href="/app/" class="link-item">
+            <i class="fa-solid fa-fire"></i>
+            <span>Sovellus</span>
+            <span class="badge-hot">KUUMA</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-gamepad"></i>
+            <span>Kolikkopelit</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-dice"></i>
+            <span>Livekasino</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-futbol"></i>
+            <span>Vedonlyönti</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-trophy"></i>
+            <span>Turnaukset</span>
+        </a>
+        <a href="/login/" class="link-item">
+            <i class="fa-solid fa-gem"></i>
+            <span>Login</span>
+        </a>
+        
+        <div style="margin-top: 2rem; border-top: 1px solid var(--line-color); padding-top: 1rem;">
+             <a href="/" class="link-item">
+                <i class="fa-solid fa-headset"></i>
+                <span>Asiakastuki</span>
+            </a>
+        </div>
+    </nav>
+
+    <div class="nav-bottom">
+        <button class="ui-btn ui-btn-ghost"><i class="fa-solid fa-globe"></i> Suomi</button>
+    </div>
+</aside>
+        <!-- MAIN CONTENT -->
+        <main class="content-area">
+
+
+ 
+
+            <!-- Content Section -->
+            <div class="text-block">
+                <div class="inner-wrap">
+    </section>             
+  </div>
+  <div class="faq-container">
+    <h1>Yukon Gold Casino – Usein kysytyt kysymykset (UKK)</h1>
+
+    <details class="faq-item" open>
+        <summary class="faq-trigger">
+            <span>Onko Yukon Gold Casino luotettava?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Yukon Gold Casino on toiminut pitkään verkkokasinomarkkinoilla ja perustaa toimintansa lisensoituihin peliohjelmistoihin sekä suojattuihin maksuprosesseihin. Yhteydet on salattu SSL/TLS-tekniikalla ja kotiutuksissa käytetään KYC-tunnistusta tarvittaessa. Me suosittelemme aina lukemaan bonusehdot ja maksuehdot ennen pelaamista sekä hyödyntämään vastuullisen pelaamisen työkaluja.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voivatko suomalaiset pelata Yukon Gold Casinolla?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Yukon Gold Casino hyväksyy suomalaiset pelaajat ja tarjoaa EUR-valuutan. Sivuston keskeiset osiot ovat helppokäyttöisiä suomalaisille, ja maksutavat ovat tuttuja. Pelien sisäinen kieli voi vaihdella pelivalmistajan mukaan.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Miten rekisteröityminen tapahtuu?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Rekisteröityminen tapahtuu täyttämällä lomake perustiedoilla ja vahvistamalla tili sähköpostin kautta. Prosessi vie yleensä vain muutaman minuutin.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Mikä on minimitalletus Yukon Gold Casinolla?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Minimitalletus on yleensä 10 €. Tämä mahdollistaa pelaamisen aloittamisen pienemmällä budjetilla ja pelivalikoiman testaamisen ilman suurta riskiä.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Tarjoaako Yukon Gold Casino tervetuliaisbonuksen?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Uusille pelaajille on tarjolla tervetuliaisbonus, jonka sisältö ja ehdot vaihtelevat kampanjan mukaan. Bonuksen ehdot tulee aina tarkistaa ennen aktivointia.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Onko tarjolla bonuksia ilman talletusta?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>No deposit -bonuksia ei ole jatkuvasti tarjolla, mutta ajoittain kasino voi järjestää kampanjoita, kuten ilmaiskierroksia ilman talletusta. Ajankohtaiset tarjoukset löytyvät kampanjasivulta.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Mitä pelejä Yukon Gold Casinolla on?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Valikoimaan kuuluu laaja määrä kolikkopelejä, pöytäpelejä sekä valittuja live-kasinopelejä useilta tunnetuilta pelivalmistajilta.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voiko pelejä pelata mobiilissa?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Yukon Gold Casino toimii sujuvasti mobiiliselaimella ilman erillistä sovellusta.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Mitä maksutapoja on käytettävissä?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Käytettävissä on useita yleisiä maksutapoja, kuten pankkisiirrot, kortit ja mahdollisesti sähköiset lompakot alueesta riippuen.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Miten kotiutukset toimivat?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kotiutus tehdään kassasta valitsemalla nostotapa ja summa. Ensimmäinen kotiutus edellyttää usein tilin vahvistamista. Käsittelyaika riippuu maksutavasta.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Kuinka kauan kotiutukset kestävät?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kotiutusten käsittelyaika vaihtelee maksutavan ja vahvistuksen mukaan, mutta ne pyritään käsittelemään mahdollisimman nopeasti.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Onko tilin vahvistaminen pakollista?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Tilin vahvistaminen vaaditaan yleensä ennen ensimmäistä kotiutusta turvallisuuden ja sääntelyn vuoksi.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voinko asettaa talletus- tai aikarajoja?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Kasino tarjoaa työkaluja, joilla voit asettaa rajoja oman pelaamisen hallintaan.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Mitä vastuullinen pelaaminen tarkoittaa?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Pelaaminen on tarkoitettu viihteeksi. Kasino tarjoaa työkaluja, kuten talletusrajoja ja itse-estoja, pelaamisen hallintaan.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voinko sulkea tilini?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Tilin voi sulkea väliaikaisesti tai pysyvästi ottamalla yhteyttä asiakastukeen.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Onko Yukon Gold Casinolla asiakastuki?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Asiakastuki auttaa pelaajia rekisteröitymiseen, maksuihin ja peleihin liittyvissä kysymyksissä.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Miten otan yhteyttä asiakastukeen?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Yhteydenotto onnistuu kasinon tarjoamien tukikanavien kautta, kuten sähköpostilla tai chatissa.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voinko käyttää useampaa bonusta?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Yleensä vain yksi bonus voi olla aktiivinen kerrallaan bonusehtojen mukaisesti.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Mistä löydän bonusehdot?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Bonusehdot löytyvät aina kampanjan omalta sivulta sekä kasinon bonusehdoista.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Perustuvatko pelit sattumaan?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Kasinopeleissä tulokset määräytyvät satunnaisuuden perusteella.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Onko Yukon Gold Casino laillinen?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Kasino toimii voimassa olevan lisenssin alaisuudessa.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voinko pelata useammalta laitteelta?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Sama käyttäjätili toimii tietokoneella, tabletilla ja mobiililaitteella.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Mikä on pelaamisen ikäraja?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Pelaaminen on sallittua vain vähintään 18-vuotiaille.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Miten henkilötietoja käsitellään?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Henkilötiedot käsitellään tietosuojakäytännön mukaisesti luottamuksellisesti ja turvallisesti.</p>
+            </div>
+        </div>
+    </details>
+
+    <details class="faq-item">
+        <summary class="faq-trigger">
+            <span>Voinko lopettaa pelaamisen milloin tahansa?</span>
+            <i class="fa-solid fa-chevron-down icon-state"></i>
+        </summary>
+        <div class="faq-content">
+            <div class="faq-inner">
+                <p>Kyllä. Pelaaminen on vapaaehtoista, ja tilin voi sulkea pyynnöstä milloin tahansa.</p>
+            </div>
+        </div>
+    </details>
+</div>
+
+
+
+            <!-- Footer -->
+<div style="background-color: var(--color-surface); border-top: 1px solid var(--line-color); padding: 0.8rem; text-align: center; font-size: 0.85rem; color: var(--txt-muted);">
+    <i class="fa-regular fa-clock" style="margin-right: 5px; color: var(--theme-yellow);"></i> 
+    Päivitetty: <strong>26.12.2025</strong>
+</div>
+
+<footer class="page-footer">
+    <div class="footer-columns">
+        <div class="footer-group">
+            <h4>Kasino</h4>
+            <ul>
+                <li><a href="/">Pelit</a></li>
+                <li><a href="/">Livekasino</a></li>
+                <li><a href="/">Uutuudet</a></li>
+                <li><a href="/">Turnaukset</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Urheilu</h4>
+            <ul>
+                <li><a href="/">Live-vedonlyönti</a></li>
+                <li><a href="/">Jalkapallo</a></li>
+                <li><a href="/">Koripallo</a></li>
+                <li><a href="/">Virtuaaliurheilu</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Asiakastuki</h4>
+            <ul>
+                <li><a href="/faq/">UKK</a></li>
+                <li><a href="/">Live-chat</a></li>
+                <li><a href="/contact/">Ota yhteyttä</a></li>
+                <li><a href="/responsible-gambling/">Vastuullinen pelaaminen</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Tietoa meistä</h4>
+            <ul>
+                <li><a href="/about-us/">Yritys</a></li>
+                <li><a href="/terms-and-conditions/">Säännöt ja ehdot</a></li>
+                <li><a href="/privacy-policy/">Tietosuojakäytäntö</a></li>
+                <li><a href="mailto:"support@yukongoldcasino.fi">support@yukongoldcasino.fi</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="legal-copy">
+        <div class="footer-partners">
+            <a href="https://www.gamingcontrolcuracao.org/">
+            <img src="/cga-logo.png" alt="CGA Logo" class="trust-logo"></a>
+            <img src="/pragmaticplay_logo.webp" alt="Pragmatic Play" class="trust-logo">
+            <a href="https://www.gamcare.org.uk/">
+            <img src="/gamcare.png" alt="gamecare" class="trust-logo">
+            </a>
+        </div>
+
+        <p>&copy; 2026 Yukon Gold Casino. Kaikki oikeudet pidätetään.</p>
+        
+        <div style="margin-top: 1rem; font-size: 1.5rem; color: #334155;">
+            <i class="fa-brands fa-cc-visa" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-cc-mastercard" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-bitcoin" style="margin: 0 5px;"></i>
+        </div>
+    </div>
+</footer>
+        </main>
+    </div>
+
+</body>
+</html>

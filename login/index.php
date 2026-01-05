@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yukon Gold Casino Login – Turvallinen kirjautuminen meidän kautta</title>
+<meta name="description" content="Yukon Gold Casino Login onnistuu meidän kauttamme nopeasti ja turvallisesti. Selkeät ohjeet kirjautumiseen, mobiililogiiniin ja yleisimpiin ongelmiin.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="../style.css?=1.6">
+     <link rel="canonical" href="/login/">
+</head>
+<body>
+    <input type="checkbox" id="drawer-check">
+
+    <div class="main-layout">
+<header class="mobile-top">
+    <div class="logo-brand">
+        <a href="/">
+        <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img mobile-logo">
+        </a>
+    </div>
+
+    <div class="top-controls">
+        <a href="/go/">
+        <button class="ui-btn-filled header-action">Kirjaudu</button>
+        </a>
+        <label for="drawer-check" class="burger-icon">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+    </div>
+</header>
+
+<aside class="side-nav">
+    <div class="nav-top">
+        <div class="logo-brand">
+            <a href="/">
+            <img src="/yukon gold casino logo (1).png" alt="Yukon Gold Casino" class="logo-img desktop-logo">
+            </a>
+        </div>
+    </div>
+
+    <div class="nav-bottom" style="background: transparent; border:none; padding-bottom: 0;">
+        <a href="/go/">
+        <button class="ui-btn ui-btn-filled">Kirjaudu</button>
+        </a>
+    </div>
+
+    <nav class="menu-links">
+        <a href="/" class="link-item current">
+            <i class="fa-solid fa-house"></i>
+            <span>Aula</span>
+        </a>
+        <a href="/app/" class="link-item">
+            <i class="fa-solid fa-fire"></i>
+            <span>Sovellus</span>
+            <span class="badge-hot">KUUMA</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-gamepad"></i>
+            <span>Kolikkopelit</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-dice"></i>
+            <span>Livekasino</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-futbol"></i>
+            <span>Vedonlyönti</span>
+        </a>
+        <a href="/" class="link-item">
+            <i class="fa-solid fa-trophy"></i>
+            <span>Turnaukset</span>
+        </a>
+        <a href="/login/" class="link-item">
+            <i class="fa-solid fa-gem"></i>
+            <span>Login</span>
+        </a>
+        
+        <div style="margin-top: 2rem; border-top: 1px solid var(--line-color); padding-top: 1rem;">
+             <a href="/" class="link-item">
+                <i class="fa-solid fa-headset"></i>
+                <span>Asiakastuki</span>
+            </a>
+        </div>
+    </nav>
+
+    <div class="nav-bottom">
+        <button class="ui-btn ui-btn-ghost"><i class="fa-solid fa-globe"></i> Suomi</button>
+    </div>
+</aside>
+
+        <!-- MAIN CONTENT -->
+        <main class="content-area">
+            
+            <div class="inner-wrap">
+                <!-- Hero Section -->
+                <section class="intro-zone">
+                    <div class="big-banner">
+                        <span class="pill-tag">Tervetuliaisbonus</span>
+                        <h1 class="big-title">
+                            Yukon Gold Casino Login  </h1>
+                          <p class="gold-text" style="font-size: 3.5em; font-weight: 900; line-height: 1.1; margin: 10px 0;">€500 + 200 FS</p>
+                       
+<p>
+      Meidän kauttamme <strong>yukon gold casino login</strong> onnistuu nopeasti ja vaivattomasti – ilman turhaa säätöä.
+      Ohjaamme sinut suoraan oikealle kirjautumissivulle, jotta <strong>yukon gold login</strong> on turvallinen ja selkeä myös ensikertalaiselle.
+      Kun haluat <strong>kirjaudu yukon gold casino</strong> -napin kautta sisään, saat pelaamisen käyntiin hetkessä ja voit palata peleihin juuri siitä, mihin jäit.
+      Me pidämme ohjeet ajantasaisina ja varmistamme, että kirjautuminen toimii niin tietokoneella kuin mobiilissakin.
+    </p>
+                        <button class="ui-btn ui-btn-filled cta-large">🔥LUNASTA BONUS🔥</button>
+                    </div>
+                </section>
+
+ 
+
+            <!-- Content Section -->
+            <div class="text-block">
+                <div class="inner-wrap">
+  <h2>Mikä on Yukon Gold Casino ja miksi valita se?</h2>
+      <p>
+        <strong>Yukon Gold Casino</strong> on klassinen nimi nettikasinoiden joukossa, ja me suosittelemme sitä erityisesti pelaajille,
+        jotka arvostavat helppoa käyttöliittymää, monipuolista pelivalikoimaa ja luotettavaa toimintaa. <strong>Yukon Gold nettikasino</strong>
+        tunnetaan siitä, että pelit löytyvät nopeasti ja kirjautuminen sujuu ilman turhia välivaiheita. Meidän tehtävämme on tehdä valinnasta
+        sinulle selkeä: kun etsit <em>luotettava kasino</em> -kokemusta, Yukon Gold on vahva vaihtoehto, koska sen taustalla on pitkään toiminut
+        brändi, selkeät käyttöehdot ja pelaajaa tukeva asiakaspalvelu. Lisäksi kasinon lisenssi ja tietoturvakäytännöt ovat tekijöitä,
+        joita me tarkistamme ennen kuin ohjaamme sinut kirjautumaan.
+      </p>
+      <ul>
+        <li>Laaja pelikirjasto: kolikkopelit, pöytäpelit ja live-vaihtoehdot</li>
+        <li>Selkeä käyttöliittymä ja nopea sivuston lataus</li>
+        <li>Turvalliset maksutavat ja sujuvat kotiutukset</li>
+        <li>Asiakastuki, johon pääsee käsiksi helposti</li>
+        <li>Vakiintunut maine ja pitkä historia kasinokentällä</li>
+      </ul>
+    </section>
+
+    <section id="login">
+      <h2>Yukon Gold Login – Näin kirjaudut sisään vaihe vaiheelta</h2>
+      <p>
+        Kun tavoitteena on nopea <strong>yukon gold login</strong>, me teemme prosessista sinulle mahdollisimman yksinkertaisen.
+        <strong>Yukon gold casino login</strong> toimii samalla logiikalla sekä tietokoneella että puhelimella: tarvitset vain tilisi tunnukset
+        ja vakaan nettiyhteyden. Jos kirjaudut mobiilissa, voit käyttää selainta ilman erillisiä asennuksia ja jatkaa pelaamista missä vain.
+        Seuraa alla olevia ohjeita, niin kirjautuminen onnistuu varmasti.
+      </p>
+      <ol>
+        <li>Avaa meidän kautta ohjattu Yukon Gold -kirjautumissivu.</li>
+        <li>Etsi “Login / Kirjaudu” -painike sivun yläosasta.</li>
+        <li>Syötä käyttäjätunnuksesi tai sähköpostiosoitteesi.</li>
+        <li>Kirjoita salasanasi huolellisesti ja tarkista kirjoitusasu.</li>
+        <li>Vahvista kirjautuminen ja siirry suoraan peleihin tai kassalle.</li>
+      </ol>
+      <p>
+        <a href="#login" role="button">Kirjaudu nyt – Yukon Gold Login</a>
+      </p>
+    </section>
+
+    <section id="signup">
+      <h2>Etkö ole vielä rekisteröitynyt? Luo Yukon Gold Casino -tili helposti</h2>
+      <p>
+        Jos sinulla ei vielä ole tiliä, rekisteröityminen onnistuu meidän kautta nopeasti ja turvallisesti.
+        <strong>Yukon Gold rekisteröityminen</strong> on suunniteltu selkeäksi: täytät perustiedot, vahvistat tilin ja olet valmis pelaamaan.
+        Me ohjaamme sinut oikeaan paikkaan, jotta <strong>Yukon Gold Casino tili</strong> syntyy ilman epäselvyyksiä ja pääset hyödyntämään
+        ajankohtaiset edut heti alusta. Uusille pelaajille tarjotaan usein tervetuliaiskampanjoita, ja tilin avaaminen on hyvä tapa varmistaa,
+        että saat bonukset ja tarjoukset käyttöön oikein. Kun luot tilin, voit myös hallita vastuullisen pelaamisen asetuksia ja tehdä talletuksia
+        luotettavilla maksutavoilla.
+      </p>
+      <ul>
+        <li>Nopea tilin avaus muutamassa minuutissa</li>
+        <li>Mahdollisuus lunastaa tervetuliaisbonukset ja kampanjat</li>
+        <li>Oma pelihistoria ja asetukset yhdessä paikassa</li>
+        <li>Helppo tunnistautuminen ja turvallinen profiilin hallinta</li>
+      </ul>
+      <p>
+        <a href="#signup" role="button">Luo tili nyt</a>
+      </p>
+    </section>
+
+    <section id="mobile">
+      <h2>Yukon Gold Casino Login mobiilissa – pelaa missä tahansa</h2>
+      <p>
+        Mobiilipelaajille <strong>yukon gold mobile login</strong> on yksi suurimmista eduista: meidän suosittelemamme Yukon Gold toimii
+        sujuvasti sekä puhelimella että tabletilla. <strong>Yukon Gold casino mobiili</strong> -kokemus on selkeä, ja kirjautuminen tapahtuu
+        samoilla tunnuksilla kuin tietokoneella. Kun kirjaudut selaimella, pääset nopeasti pelien pariin, ja käyttöliittymä mukautuu näytön kokoon
+        ilman, että sinun tarvitsee opetella mitään uutta.
+      </p>
+    </section>
+
+    <section id="problems">
+      <h2>Yukon Gold kirjautumisongelmat – yleisimmät syyt ja ratkaisut</h2>
+      <p>
+        Jos <strong>yukon gold login ongelmat</strong> yllättävät, kyse on yleensä pienestä ja helposti korjattavasta asiasta.
+        Meidän ohjeilla saat tilanteen nopeasti hallintaan, jotta <strong>kirjautuminen ei toimi</strong> -tilanne ei keskeytä pelaamista.
+        Tarkista ensin perusasiat (tunnukset, selain ja yhteys), ja jos ongelma jatkuu, suosittelemme ottamaan yhteyttä kasinon asiakastukeen.
+        Meidän kautta löydät myös oikeat linkit, jotta et päädy vahingossa epävirallisille sivuille.
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Ongelma</th>
+            <th>Ratkaisu</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Väärä salasana</td>
+            <td>Käytä “Unohditko salasanan?” -toimintoa ja luo uusi salasana.</td>
+          </tr>
+          <tr>
+            <td>Sivu ei lataudu</td>
+            <td>Tarkista nettiyhteys, kokeile toista selainta tai tyhjennä välimuisti.</td>
+          </tr>
+          <tr>
+            <td>Tili lukittu</td>
+            <td>Odota hetki ja yritä uudelleen tai ota yhteys asiakastukeen vahvistusta varten.</td>
+          </tr>
+          <tr>
+            <td>Mobiilissa kirjautuminen takkuaa</td>
+            <td>Päivitä selain, sulje muut sovellukset ja varmista, ettei VPN estä yhteyttä.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="security">
+      <h2>Turvallinen Yukon Gold Casino Login – tietoturva ja lisenssi</h2>
+      <p>
+        Meidän tarkistamana <strong>turvallinen kirjautuminen</strong> perustuu sekä teknisiin suojausratkaisuihin että selkeään lisenssiin.
+        Yukon Goldin kirjautumisessa keskeistä on se, että yhteys on suojattu ja pelaajan tiedot käsitellään luottamuksellisesti.
+        Lisäksi vastuullisen pelaamisen työkalut auttavat pitämään pelaamisen hallinnassa. Kun kirjaudut meidän kautta, ohjaamme sinut
+        oikeaan paikkaan ja muistutamme tärkeimmistä turvakäytännöistä.
+      </p>
+      <ul>
+        <li>SSL-salaus suojaa kirjautumistiedot siirron aikana</li>
+        <li>Lisenssi ja valvonta lisäävät luotettavuutta</li>
+        <li>Turvalliset maksutavat ja petostentorjunta</li>
+        <li>Mahdollisuus rajoihin ja vastuullisen pelaamisen työkaluihin</li>
+      </ul>
+    </section>
+
+    <section id="why-us">
+      <h2>Miksi kirjautua Yukon Gold Casinolle meidän kautta?</h2>
+      <p>
+        Me emme vain ohjaa sinua eteenpäin – me varmistamme, että saat mahdollisimman sujuvan ja turvallisen alun.
+        Kun käytät meidän linkkejä, <strong>yukon gold casino login</strong> löytyy nopeasti, ohjeet ovat ajantasaiset ja vältät
+        harhaanjohtavat kopiosivut. Tavoitteemme on tarjota sinulle <em>paras yukon gold kokemus</em> ilman epävarmuutta.
+      </p>
+      <ul>
+        <li>Ajantasaiset kirjautumisohjeet ja selkeä reitti oikealle sivulle</li>
+        <li>Vinkit nopeampaan kirjautumiseen ja mobiilikäyttöön</li>
+        <li>Luotettavaa tietoa tietoturvasta ja lisenssistä</li>
+        <li>Nopeat ratkaisut yleisimpiin kirjautumisongelmiin</li>
+      </ul>
+      </section>
+            </div>
+
+<div class="faq-container">
+  <details class="faq-item">
+    <summary class="faq-trigger">
+      <span>Onko Yukon Gold Casino Login turvallinen?</span>
+      <i class="fa-solid fa-chevron-down icon-state"></i>
+    </summary>
+    <div class="faq-content">
+      <div class="faq-inner">
+        <p>
+          Kyllä, kun käytät virallista kirjautumissivua. Meidän kauttamme pääset suoraan oikeaan osoitteeseen, jolloin vältyt harhaanjohtavilta kopiosivuilta.
+          Turvallisuutta tukevat salattu yhteys (SSL/TLS), selkeästi esillä olevat lisenssi- ja operaattoritiedot sekä tarvittaessa KYC-varmennus, joka suojaa
+          kotiutuksia ja tiliturvaa. Me suosittelemme pitämään salasanan vahvana, vaihtamaan sen säännöllisesti ja kirjautumaan ulos jaetuilta laitteilta.
+          Jos huomaat epäilyttävää toimintaa, vaihda salasana heti ja ota yhteys tukeen.
+        </p>
+      </div>
+    </div>
+  </details>
+
+  <details class="faq-item">
+    <summary class="faq-trigger">
+      <span>Voinko kirjautua ilman sovellusta?</span>
+      <i class="fa-solid fa-chevron-down icon-state"></i>
+    </summary>
+    <div class="faq-content">
+      <div class="faq-inner">
+        <p>
+          Kyllä. <strong>Yukon gold login</strong> toimii yleensä suoraan selaimessa sekä tietokoneella että mobiilissa, joten erillistä sovellusta ei tarvita.
+          Meidän ohjeillamme löydät kirjautumispainikkeen nopeasti: avaa kirjautumissivu, syötä tunnuksesi ja vahvista sisäänkirjautuminen.
+          Mobiilissa kokemus on sama – käyttöliittymä mukautuu näytön kokoon, ja voit siirtyä suoraan peleihin tai kassalle ilman lisäasennuksia.
+          Jos selaimessa ilmenee ongelmia, päivitä selain tai tyhjennä välimuisti.
+        </p>
+      </div>
+    </div>
+  </details>
+
+  <details class="faq-item">
+    <summary class="faq-trigger">
+      <span>Mitä teen jos unohdan salasanan?</span>
+      <i class="fa-solid fa-chevron-down icon-state"></i>
+    </summary>
+    <div class="faq-content">
+      <div class="faq-inner">
+        <p>
+          Käytä kirjautumissivun “Unohditko salasanan?” -linkkiä ja syötä tilillesi liitetty sähköpostiosoite.
+          Saat ohjeet salasanan palautukseen sähköpostiisi, ja me suosittelemme tarkistamaan myös roskapostikansion, jos viesti ei näy heti.
+          Luo uusi salasana, joka on pitkä ja uniikki, ja tallenna se turvallisesti. Jos et enää pääse sähköpostiisi käsiksi tai palautus ei onnistu,
+          ota yhteyttä asiakastukeen – he voivat varmistaa henkilöllisyyden ja auttaa tilin palauttamisessa.
+        </p>
+      </div>
+    </div>
+  </details>
+
+  <details class="faq-item">
+    <summary class="faq-trigger">
+      <span>Miksi kirjautuminen ei toimi?</span>
+      <i class="fa-solid fa-chevron-down icon-state"></i>
+    </summary>
+    <div class="faq-content">
+      <div class="faq-inner">
+        <p>
+          Yleisimmät syyt ovat väärin syötetty käyttäjätunnus/salasana, selaimen välimuisti tai tilapäinen yhteyskatko.
+          Me suosittelemme ensin tarkistamaan kirjoitusasun (myös isot/pienet kirjaimet), päivittämään sivun ja kokeilemaan tarvittaessa toista selainta.
+          Tyhjennä välimuisti ja evästeet, poista VPN hetkeksi käytöstä ja varmista, että kellonaika laitteessasi on oikein.
+          Jos tili on lukkiutunut useiden yritysten jälkeen, odota hetki tai ota yhteys tukeen – näin saat kirjautumisen auki turvallisesti.
+        </p>
+      </div>
+    </div>
+  </details>
+
+  <details class="faq-item">
+    <summary class="faq-trigger">
+      <span>Toimiiko Yukon Gold Casino Login mobiilissa samalla tavalla?</span>
+      <i class="fa-solid fa-chevron-down icon-state"></i>
+    </summary>
+    <div class="faq-content">
+      <div class="faq-inner">
+        <p>
+          Kyllä. Kirjaudut samoilla tunnuksilla myös puhelimella ja tabletilla, ja useimmiten suoraan selaimessa.
+          Meidän kautta löydät nopeimman reitin kirjautumiseen: avaa mobiilisivu, paina “Kirjaudu”, syötä tiedot ja siirry suoraan peleihin.
+          Jos käyttö tuntuu hitaalta, sulje taustasovelluksia ja varmista, että selain on ajan tasalla. Tarvittaessa vaihda Wi-Fi:n ja mobiilidatan välillä,
+          jotta yhteys pysyy vakaana.
+        </p>
+      </div>
+    </div>
+  </details>
+</div>
+
+
+            <!-- Footer -->
+<div style="background-color: var(--color-surface); border-top: 1px solid var(--line-color); padding: 0.8rem; text-align: center; font-size: 0.85rem; color: var(--txt-muted);">
+    <i class="fa-regular fa-clock" style="margin-right: 5px; color: var(--theme-yellow);"></i> 
+    Päivitetty: <strong>26.12.2025</strong>
+</div>
+
+<footer class="page-footer">
+    <div class="footer-columns">
+        <div class="footer-group">
+            <h4>Kasino</h4>
+            <ul>
+                <li><a href="/">Pelit</a></li>
+                <li><a href="/">Livekasino</a></li>
+                <li><a href="/">Uutuudet</a></li>
+                <li><a href="/">Turnaukset</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Urheilu</h4>
+            <ul>
+                <li><a href="/">Live-vedonlyönti</a></li>
+                <li><a href="/">Jalkapallo</a></li>
+                <li><a href="/">Koripallo</a></li>
+                <li><a href="/">Virtuaaliurheilu</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Asiakastuki</h4>
+            <ul>
+                <li><a href="/faq/">UKK</a></li>
+                <li><a href="/">Live-chat</a></li>
+                <li><a href="/contact/">Ota yhteyttä</a></li>
+                <li><a href="/responsible-gambling/">Vastuullinen pelaaminen</a></li>
+            </ul>
+        </div>
+        <div class="footer-group">
+            <h4>Tietoa meistä</h4>
+            <ul>
+                <li><a href="/about-us/">Yritys</a></li>
+                <li><a href="/terms-and-conditions/">Säännöt ja ehdot</a></li>
+                <li><a href="/privacy-policy/">Tietosuojakäytäntö</a></li>
+                <li><a href="mailto:"support@yukongoldcasino.fi">support@yukongoldcasino.fi</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="legal-copy">
+        <div class="footer-partners">
+            <a href="https://www.gamingcontrolcuracao.org/">
+            <img src="/cga-logo.png" alt="CGA Logo" class="trust-logo"></a>
+            <img src="/pragmaticplay_logo.webp" alt="Pragmatic Play" class="trust-logo">
+            <a href="https://www.gamcare.org.uk/">
+            <img src="/gamcare.png" alt="gamecare" class="trust-logo">
+            </a>
+        </div>
+
+        <p>&copy; 2026 Yukon Gold Casino. Kaikki oikeudet pidätetään.</p>
+        
+        <div style="margin-top: 1rem; font-size: 1.5rem; color: #334155;">
+            <i class="fa-brands fa-cc-visa" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-cc-mastercard" style="margin: 0 5px;"></i>
+            <i class="fa-brands fa-bitcoin" style="margin: 0 5px;"></i>
+        </div>
+    </div>
+</footer>
+        </main>
+    </div>
+
+</body>
+</html>
