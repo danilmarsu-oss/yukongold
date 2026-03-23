@@ -706,3 +706,20 @@ details[open] .faq-content {
     filter: grayscale(0%);   /* Full color on hover */
     transform: translateY(-2px);
 }
+/* Визначаємо ключові кадри анімації */
+@keyframes pulse-gold {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 215, 0, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 15px rgba(255, 215, 0, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 215, 0, 0);
+    }
+}
+
+/* Клас, який запускає пульсацію */
+.pulse-animation {
+    animation: pulse-gold 2s infinite;
+}
